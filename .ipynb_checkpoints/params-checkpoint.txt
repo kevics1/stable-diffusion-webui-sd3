@@ -1,0 +1,3 @@
+beautiful scenery nature glass bottle landscape,purple galaxy bottle
+Negative prompt: text,wartermark
+Steps: 50, Sampler: Euler, Schedule type: Automatic, CFG scale: 5, Seed: 352092793, Size: 512x512, Model hash: cc236278d2, Model: sd3_medium, Denoising strength: 0.3, Hires upscale: 2, Hires steps: 20, Hires upscaler: Latent, Version: 1.9.4
